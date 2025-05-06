@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm M. Farhan
 
-<!--
-**9090ID/9090ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** with experience in building modern web applications using **Laravel**, **React**, and **MySQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on real-world web-based systems
+- 🧠 Always learning and exploring better ways to build efficient and secure applications
+- 💼 Focused on full-stack development with Laravel (backend) and React (frontend)
+- 🛠️ Tech stack: PHP, Laravel, React.js, MySQL, JavaScript, Tailwind CSS, Bootsrap
+
+---
+
+### 📫 How to reach me
+- 💬 Email: mf80752@gmail.com
+
+
+---
+
+### ⚡ Fun Fact
+> I love turning complex problems into simple and elegant solutions.
